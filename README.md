@@ -1,14 +1,14 @@
 # Scientific Training Center for Plant Biotechnologies
-## Introdution to Statistical methods for Plant Variety Evaluation - "Beginner" level
+## Introduction to statistical methods for Plant Variety Evaluation - "Beginner" level
 
-Data and scripts for creation and analysis of experimental designs based on Randomized Complete Block design for plant variety evaluation . We are covering:  
+Data and scripts for creation and analysis of experimental designs for plant variety evaluation . We are covering:  
 
-1. How simple statistical analyses help in making decisions for plant breeding more efficient and costless
-2. Using R to simply and quickly perform reproducible analsyses
-3. Completely Randomized Design - CRD
-4. Randomized Complete Block Design - RCBD and its numerous applications
+1. How simple statistical analyses help in making decisions in plant breeding more efficient and costless
+2. Using R to simply and quickly perform reproducible analyses
+3. The Completely Randomized Design - CRD
+4. The Randomized Complete Block Design - RCBD and its numerous applications
 5. How to use covariates - ANCOVA 
-6. Unbalanced designs
+6. The issues with unbalanced designs
 
 Making the best of your trials is compulsory for sucessful selection of the most promising genotypes, and for performing trials for variety evaluation prior Registration.
 <p align="center">
