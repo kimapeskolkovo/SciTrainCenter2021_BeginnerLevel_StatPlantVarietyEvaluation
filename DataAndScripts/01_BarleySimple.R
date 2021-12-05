@@ -162,6 +162,12 @@ anaParents <- aov( GrainPerEar ~ Population, data = toto)
 summary(anaParents)
 
 
+## ------------------  STOP HERE FOR THAT STEP !
+## ------------------  At a next session, the following will be performed:
+## ------------------ Statistical analysis of qualitative traits (type of segregation, possible linkage)
+## ------------------ Statistical analysis of possible linkage between yield and qualitative traits
+
+
 ## ------------------  Qualitative characters
 
 ## awness :2 phenotypic categories in the F2 population in segregation -> 
