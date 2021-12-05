@@ -17,7 +17,7 @@ Making the best of your trials is compulsory for sucessful slection of most prom
 To get ready for the practical, please download the following software/R packages to your local machine
 
 1. [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/)
-2. R packages: [agricolae](https://www.tidyverse.org/packages/), [Hmisc](), [openxlsx](), [agricolae](), [emmeans](https://cran.r-project.org/web/packages/emmeans/), [desplot](https://cran.r-project.org/web/packages/desplot), [ggplot2](https://cran.r-project.org/web/packages/ggplot2/), [lme4](https://cran.r-project.org/web/packages/lme4/), [lmerTest](https://cran.r-project.org/web/packages/lmerTest/index.html)
+2. R packages: [agricolae](https://www.tidyverse.org/packages/), [Hmisc](), [openxlsx](), [desplot](https://cran.r-project.org/web/packages/desplot), [car](), [ggplot2](https://cran.r-project.org/web/packages/ggplot2/), [gridExtra](), [multcomp](), [multcompView](), [emmeans](), [shiny](), [dplyr]()
 
 ### useful trick :
 You may download the repository as a zip file to your own machine and appropriate folder: Use **CODE / Download ZIP**. After extraction, all elements will be in place.  
