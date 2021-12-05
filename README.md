@@ -11,7 +11,7 @@ Data and scripts for creation and analysis of experimental designs based on Rand
 
 Making the best of your trials is compulsory for sucessful slection of most promising genotypes, and for preparing trial for variety evaluation prior Registration.
 <p align="center">
-  <img src="https://github.com/Laurent-Gentzbittel/SciTrainCenter2021_RegularLevel_ExpDesigns/blob/main/WhyExpDesigns.png" width="70%" height="70%">
+  <img src="https://github.com/Laurent-Gentzbittel/" width="70%" height="70%">
 </p>
  
 To get ready for the practical, please download the following software/R packages to your local machine
