@@ -1,2 +1,4 @@
 
-pdf output of R scripts R + markdown + tinytex
+pdf output of R scripts
+
+documents produced using R + markdown + tinytex
