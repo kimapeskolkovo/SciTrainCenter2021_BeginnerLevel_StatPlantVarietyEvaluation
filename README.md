@@ -3,15 +3,16 @@
 
 Data and scripts for creation and analysis of experimental designs based on Randomized Complete Block design for plant variety evaluation . We are covering:  
 
-1. How simple statisaitcal anayses help in majking decieions for breedin
+1. How simple statistical analyses help in making decisions for plant breeding more efficient and costless
 2. Using R to simply and quickly perform reproducible analsyses
-3. 
-4. 
-5. 
+3. Completely Randomized Design - CRD
+4. Randomized Complete Block Design - RCBD and its numerous applications
+5. How to use covariates - ANCOVA 
+6. Unbalanced designs
 
 Making the best of your trials is compulsory for sucessful selection of the most promising genotypes, and for performing trials for variety evaluation prior Registration.
 <p align="center">
-  <img src="https://github.com/Laurent-Gentzbittel/SciTrainCenter2021_BeginnerLevel_StatPlantVarietyEvaluation/TrialsPictures.png" width="70%" height="70%">
+  <img src="https://github.com/Laurent-Gentzbittel/SciTrainCenter2021_BeginnerLevel_StatPlantVarietyEvaluation//blob/main/TrialsPictures.png" width="70%" height="70%">
 </p>
 
 To get ready for the practical, please download the following software/R packages to your local machine
