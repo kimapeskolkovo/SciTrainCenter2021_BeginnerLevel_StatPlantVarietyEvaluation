@@ -3,8 +3,8 @@
 
 Data and scripts for creation and analysis of experimental designs based on Randomized Complete Block design for plant variety evaluation . We are covering:  
 
-1. 
-2. 
+1. How simple statisaitcal anayses help in majking decieions for breedin
+2. Using R to simply and quickly perform reproducible analsyses
 3. 
 4. 
 5. 
